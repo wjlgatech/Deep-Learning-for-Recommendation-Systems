@@ -112,6 +112,8 @@ Source: https://github.com/amoussawi/recoder
 4. PredictionIO is built on technologies Apache Spark, Apache HBase and Spray. It is a machine learning server that can be used to create a recommender system. The source can be located on github and it looks very active. 
 Source: https://github.com/apache/predictionio
 
+5. Facebook DLRM: An implementation of a deep learning recommendation model (DLRM) https://github.com/facebookresearch/dlrm
+
 ## Books
 1. Practical Recommender Systems by Kim Falk (Manning Publications). Chapter 1 
 Source: https://www.manning.com/books/practical-recommender-systems
